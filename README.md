@@ -22,7 +22,7 @@ Open the project in Unity/Unreal Engine.
 Press Play or build the game for your platform.
 
 👩‍💻 Team
-Milan Vaishnav: 3D Modeling & Animation < br / >
+Milan Vaishnav: 3D Modeling & Animation <br/>
 Milan Ramoliya: Game Development / Assets creation < br / >
 Smit Bhanderi: Audio Design & Testing / Documentation < br / >
 
