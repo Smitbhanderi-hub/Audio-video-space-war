@@ -1,36 +1,36 @@
 🌌 Space War
 An immersive 3D space shooter game created by a team of three students for the Audio, Video, and 3D Animation course. Dive into an action-packed galactic battle, defeat waves of enemies, and save the galaxy with stunning visuals, dynamic gameplay, and engaging audio design.
 
-🚀 Features
-Dynamic Space Combat: Control a spaceship, and battle with the space stones.
-Stunning 3D Visuals: Space environments, explosive animations and immersive audio.
-Specifications: Sci-fi-themed background music and realistic sound effects.
+🚀 Features <br/>
+Dynamic Space Combat: Control a spaceship, and battle with the space stones. <br/>
+Stunning 3D Visuals: Space environments, explosive animations and immersive audio. <br/>
+Specifications: Sci-fi-themed background music and realistic sound effects. <br/>
 
-🎮 Gameplay
-Navigate your spaceship with the joystick to dodge obstacles, and unleash powerful attacks.
-Survive increasing waves of stones, save yourself to survive in the galaxy!
+🎮 Gameplay <br/>
+Navigate your spaceship with the joystick to dodge obstacles, and unleash powerful attacks. <br/>
+Survive increasing waves of stones, save yourself to survive in the galaxy! <br/>
 
-🛠️ Tech Stack
-Game Engine: Unity
-Assets Creation: Photoshop / Illustrator
-Audio Editing: Freesound.org
+🛠️ Tech Stack <br/>
+Game Engine: Unity <br/>
+Assets Creation: Photoshop / Illustrator <br/>
+Audio Editing: Freesound.org <br/>
 
-📂 Installation
-Clone the repository:
-Copy Code: git clone https://github.com/yourusername/space-war.git  
-Open the project in Unity/Unreal Engine.
-Press Play or build the game for your platform.
+📂 Installation <br/>
+Clone the repository: <br/>
+Copy Code: git clone https://github.com/yourusername/space-war.git  <br/>
+Open the project in Unity/Unreal Engine. <br/>
+Press Play or build the game for your platform. <br/>
 
-👩‍💻 Team
+👩‍💻 Team <br/>
 Milan Vaishnav: 3D Modeling & Animation <br/>
-Milan Ramoliya: Game Development / Assets creation < br / >
-Smit Bhanderi: Audio Design & Testing / Documentation < br / >
+Milan Ramoliya: Game Development / Assets creation <br/>
+Smit Bhanderi: Audio Design & Testing / Documentation <br/>
 
-📸 Screenshots
+📸 Screenshots <br/>
 
-📄 License
-See the LICENSE file for details.
+📄 License <br/>
+See the LICENSE file for details. <br/>
 
-✨ Acknowledgments
-Special thanks to our instructor for guidance.
-Assets sourced from [Freesound.org], [BlenderKit], and other free resources.
+✨ Acknowledgments <br/>
+Special thanks to our instructor for guidance. <br/>
+Assets sourced from [Freesound.org], [BlenderKit], and other free resources. <br/>
