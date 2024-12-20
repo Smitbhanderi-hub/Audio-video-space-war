@@ -1,10 +1,10 @@
-🌌 **Space War**
+🌌 **Space War** <br/>
 An immersive 3D space shooter game created by a team of three students for the Audio, Video, and 3D Animation course. Dive into an action-packed galactic battle, defeat waves of enemies, and save the galaxy with stunning visuals, dynamic gameplay, and engaging audio design.
 
 🚀 **Features** <br/>
 **Dynamic Space Combat:** Control a spaceship, and battle with the space stones. <br/>
-**Stunning 3D Visuals:** Space environments, explosive animations and immersive audio. <br/>**
-Specifications:** Sci-fi-themed background music and realistic sound effects. <br/>
+**Stunning 3D Visuals:** Space environments, explosive animations and immersive audio. <br/>
+**Specifications:** Sci-fi-themed background music and realistic sound effects. <br/>
 
 🎮 **Gameplay** <br/>
 Navigate your spaceship with the joystick to dodge obstacles, and unleash powerful attacks. <br/>
