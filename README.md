@@ -26,7 +26,7 @@ Press Play or build the game for your platform. <br/>
 **Milan Ramoliya:** Game Development / Assets creation <br/>
 **Smit Bhanderi:** Audio Design & Testing / Documentation <br/>
 
-📸** Screenshots** <br/>
+📸 **Screenshots** <br/>
 
 📄 **License** <br/>
 See the LICENSE file for details. <br/>
