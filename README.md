@@ -21,7 +21,7 @@ Survive increasing waves of stones, save yourself to survive in the galaxy! <br/
 Open the project in Unity/Unreal Engine. <br/>
 Press Play or build the game for your platform. <br/>
 
-👩‍💻 **Team** <br/>
+👩‍💻 **Team & Roles** <br/>
 **Milan Vaishnav:** 3D Modeling & Animation <br/>
 **Milan Ramoliya:** Game Development / Assets creation <br/>
 **Smit Bhanderi:** Audio Design & Testing / Documentation <br/>
