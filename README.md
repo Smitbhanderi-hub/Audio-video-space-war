@@ -17,7 +17,7 @@ Survive increasing waves of stones, save yourself to survive in the galaxy! <br/
 
 📂 **Installation** <br/>
 **Clone the repository:** <br/>
-**Copy Code:** git clone https://github.com/yourusername/space-war.git  <br/>
+**Copy Code:** git clone [https://github.com/Smitbhanderi-hub/Audio-video-space-war](https://github.com/Smitbhanderi-hub/Audio-video-space-war)  <br/>
 Open the project in Unity/Unreal Engine. <br/>
 Press Play or build the game for your platform. <br/>
 
