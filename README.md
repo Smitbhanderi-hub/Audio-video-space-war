@@ -12,8 +12,8 @@ Survive increasing waves of stones, save yourself to survive in the galaxy! <br/
 
 🛠️ **Tech Stack** <br/>
 **Game Engine:** Unity <br/>
-**Assets Creation:** Photoshop / Illustrator <br/>
-**Audio Editing:** Freesound.org <br/>
+**Assets Creation:** Adobe Photoshop / Illustrator / After Effects (Trailer) <br/>
+**Audio Editing:**  <br/>
 
 📂 **Installation** <br/>
 **Clone the repository:** <br/>
@@ -22,15 +22,19 @@ Open the project in Unity/Unreal Engine. <br/>
 Press Play or build the game for your platform. <br/>
 
 👩‍💻 **Team & Roles** <br/>
-**Milan Vaishnav:** 3D Modeling & Animation <br/>
-**Milan Ramoliya:** Game Development / Assets creation <br/>
-**Smit Bhanderi:** Audio Design & Testing / Documentation <br/>
+**Milan Vaishnav:** 3D Modeling & Assets creation <br/>
+**Milan Ramoliya:** Game Development /  Animation <br/>
+**Smit Bhanderi:** Audio/Video Design & Testing / Documentation <br/>
 
 📸 **Screenshots** <br/>
 
 📄 **License** <br/>
 See the LICENSE file for details. <br/>
 
-✨ **Acknowledgments** <br/>
+✨ **Acknowledgments & References** <br/>
 Special thanks to our instructor for guidance. <br/>
 Assets sourced from [Freesound.org], [BlenderKit], and other free resources. <br/>
+Our created assets Figma File Link: [https://www.figma.com/design/cap5EZEFxPPd4abBent1xS/SPACE_WAR_ASSET?node-id=0-1&t=31LL6ti0bWpOfrn8-1](https://www.figma.com/design/cap5EZEFxPPd4abBent1xS/SPACE_WAR_ASSET?node-id=0-1&t=31LL6ti0bWpOfrn8-1) (Only for view).
+Fonts: [https://fonts.google.com/specimen/Quantico](https://fonts.google.com/specimen/Quantico)
+Images: [https://unsplash.com/](https://unsplash.com/)
+Audio: [https://opengameart.org/](https://opengameart.org/)
