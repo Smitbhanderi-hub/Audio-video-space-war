@@ -26,11 +26,6 @@ Press Play or build the game for your platform. <br/>
 **Milan Ramoliya:** Game Development /  Animation <br/>
 **Smit Bhanderi:** Audio/Video Design & Testing / Documentation <br/>
 
-📸 **Screenshots** <br/>
-
-📄 **License** <br/>
-See the LICENSE file for details. <br/>
-
 ✨ **Acknowledgments & References** <br/>
 Special thanks to our instructor for guidance. <br/>
 Assets sourced from [Freesound.org], [BlenderKit], and other free resources. <br/>
